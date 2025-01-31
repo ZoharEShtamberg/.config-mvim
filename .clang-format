@@ -1,0 +1,8 @@
+BasedOnStyle: LLVM
+ColumnLimit: 120
+IndentWisth: 4
+AlignConsecutiveAssignments: true
+AlignAfterOpenBracket: AlwaysBreak
+PointerAlignment: Right
+SortIncludes: true
+
