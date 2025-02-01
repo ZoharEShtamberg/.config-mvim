@@ -3,7 +3,7 @@ return {
     "LazyVim/LazyVim",
     opts = {
       colorscheme = function()
-        vim.cmd([[colorscheme slate]])
+        vim.cmd([[colorscheme catppuccin-mocha]])
       end,
     },
   },
